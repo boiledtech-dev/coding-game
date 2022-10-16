@@ -1,0 +1,5 @@
+import functions.py
+
+print(functions.test(2,5))
+  
+  
